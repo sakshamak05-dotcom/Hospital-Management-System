@@ -1,6 +1,5 @@
 # Problem Statement
 
-> NOTE TO SELF — rewrite this file in your own words before submitting.
 > The structure and headings are correct; the prose should be yours.
 
 ## Problem Statement
