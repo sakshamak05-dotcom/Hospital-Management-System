@@ -1,7 +1,5 @@
 # Problem Statement
 
-> The structure and headings are correct; the prose should be yours.
-
 ## Problem Statement
 
 Small and mid-sized clinics still run patient registers, doctor rosters and
